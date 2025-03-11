@@ -1,2 +1,2 @@
 <h1 align= center>Projeto de curso: AMIGO SECRETO<h1>
-![Imagem_exemplo](https://github.com/user-attachments/assets/1692c4c9-1f78-4e88-bda3-93bc5ca9aaca)
+<img src= https://github.com/user-attachments/assets/1f52065e-3557-418d-bad8-52db558197f6 alt= pessoa com roupa laranja com cabelo afro mexendo em um aparelho com a frase amigo secreto ao lado>
