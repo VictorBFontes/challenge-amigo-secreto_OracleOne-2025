@@ -12,7 +12,7 @@
 
 <h1> 🔨 Funcionalidades do projeto</h1>
 
-<p>O projeto "Amigo Secreto" tem as seguintes funcionalidades</p>
+<p>O projeto "Amigo Secreto" tem as seguintes funcionalidades:</p>
 <li>Guardar nomes inseridos em uma lista;</li>
 <li>Sortear um nome dentre os inseridos;</li>
 <li>Verificação se já não existe um nome na lista para evitar duplicatas;</li>
