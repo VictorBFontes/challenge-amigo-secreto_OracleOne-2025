@@ -21,7 +21,7 @@
 
 <h1>Acesso ao projeto</h1>
 
-<p>O projeto pode ser acessado pelo link a seguir:</p>
+<p>O projeto pode ser acessado pelo link a seguir: https://victorbfontes.github.io/challenge-amigo-secreto_OracleOne-2025/</p>
 
 <h1>Tecnologias Usadas</h1>
 
